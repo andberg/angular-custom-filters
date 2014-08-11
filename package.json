@@ -1,0 +1,27 @@
+{
+  "name": "angular-custom-filters",
+  "version": "0.0.1",
+  "description": "",
+  "main": ".",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andberg/angular-custom-filters.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/andberg/angular-custom-filters/issues"
+  },
+  "devDependencies": {
+    "karma": "~0.12.21",
+    "karma-jasmine": "~0.1.5",
+    "karma-chrome-launcher": "~0.1.4"
+  }
+}
