@@ -14,7 +14,10 @@ module.exports = function (config) {
 
 
         // list of files / patterns to load in the browser
+        //tank scripttag i html
         files: [
+            'bower_components/angular/angular.min.js',
+            'bower_components/angular-mocks/angular-mocks.js',
             'src/*.js',
             'tests/*.js'
         ],

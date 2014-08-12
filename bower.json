@@ -18,6 +18,7 @@
     "examples"
   ],
   "dependencies": {
-    "angularjs": "~1.2.21"
+    "angularjs": "~1.2.21",
+    "angular-mocks": "~1.2.21"
   }
 }
